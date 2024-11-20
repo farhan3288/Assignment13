@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    border: solid black;
+    padding: 15px;
+    margin: 25px;
+    
+}
+.abd{
+    width: 150px;
+    align: center;
+}
+
+button{
+    border-radius: 25px;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    background-color: black;
+}
+
